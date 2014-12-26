@@ -1,7 +1,7 @@
 /*
 "Conocimiento que no se comparte, se pudre."
 
-https://github.com/Msvargas97/Guardar_y_restaurar_valores_CalibracionQTR_Arduino
+http://electronicamsvargas.blogspot.com/2014/12/guardar-y-restaurar-valores-calibrados.html
 
 Usted puede modificar libremente y compartir el código, siempre y cuando mantenga el enlace
 de referencia y este comentario inicial...
@@ -100,7 +100,7 @@ void setup()
   monitorSerial();
   delay(3000);
   Serial.println("\nSe restauran los valores de calibracion para comprobar que se restauran desde la EEPROM de Arduino: \n ");
-  restaurarCalibracion(); // se puede usar con algun boton 
+  restaurarCalibracion(); // se puede usar con algun boton ya es segun nuestras necesidades
   monitorSerial();
   delay(5000);
 }
