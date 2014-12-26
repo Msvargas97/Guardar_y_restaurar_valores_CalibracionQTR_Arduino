@@ -1,13 +1,13 @@
 /*
 "Conocimiento que no se comparte, se pudre."
 
-
+https://github.com/Msvargas97/Guardar_y_restaurar_valores_CalibracionQTR_Arduino
 
 Usted puede modificar libremente y compartir el código, siempre y cuando mantenga el enlace
 de referencia y este comentario inicial...
 
 Guardar y restaurar calibracion en sensores QTR By Michael Vargas
-
+https://github.com/Msvargas97
 */
 
 //Añadir librerias necesarias
